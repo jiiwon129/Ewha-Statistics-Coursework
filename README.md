@@ -1,6 +1,6 @@
 # Ewha Statistics Coursework
 
-이화여자대학교 통계학과 수업에서 수행한 **통계 분석, 데이터 시각화, 머신러닝·딥러닝 실습 및 프로젝트**를 정리한 아카이브
+이화여자대학교 통계학과 수업에서 수행한 **통계 분석, 데이터 시각화 실습 프로젝트**를 정리한 아카이브
 
 ## Coursework
 
@@ -25,38 +25,3 @@
 
 **Tech**  
 `R` `tidyverse` `dplyr` `ggplot2`
-
----
-
-### 빅데이터 분석 방법론 — Python
-
-[실습 파일 보기](./빅데이터분석방법론)
-
-Python 기반 데이터 분석과 머신러닝·딥러닝 방법론을 단계적으로 실습.
-
-- `HW1_Basic_Python.ipynb` — Python 기초
-- `HW2_ML_Regression_Classification.ipynb` — 회귀·분류
-- `HW3_DL_DNN.ipynb` — Deep Neural Network
-- `HW4_DL_CNN.ipynb` — Convolutional Neural Network
-- `HW5_DL_RNN.ipynb` — Recurrent Neural Network
-
-**Tech**  
-`Python` `pandas` `NumPy` `scikit-learn` `TensorFlow/Keras`
-
-## Repository Structure
-
-```text
-.
-├── 빅데이터를이용한통계그래픽스/
-│   ├── README.md
-│   ├── 올림픽_운동선수_데이터_분석.Rmd
-│   └── 올림픽 운동선수 데이터 분석.pdf
-│
-└── 빅데이터분석방법론/
-    ├── README.md
-    ├── HW1_Basic_Python.ipynb
-    ├── HW2_ML_Regression_Classification.ipynb
-    ├── HW3_DL_DNN.ipynb
-    ├── HW4_DL_CNN.ipynb
-    └── HW5_DL_RNN.ipynb
-```
